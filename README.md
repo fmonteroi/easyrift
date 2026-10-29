@@ -7,12 +7,13 @@ The application is currently available for **local execution only**. There is no
 
 ## Screenshots
 
-### Home
-![EasyRift Home](docs/images/home.jpeg)
+<p align="center">
+  <img src="docs/images/home.jpeg" alt="EasyRift Home" width="700">
+</p>
 
 | Player Profile | Champion Details |
 |:---:|:---:|
-| ![Player Profile](docs/images/profile.jpeg) | ![Champion Details](docs/images/champion_details.jpeg) |
+| <img src="docs/images/profile.jpeg" alt="Player Profile" width="450"> | <img src="docs/images/champion_details.jpeg" alt="Champion Details" width="450"> |
 
 
 ## Technologies
