@@ -4,6 +4,17 @@ EasyRift is a web application for browsing and analyzing **League of Legends** d
 
 The application is currently available for **local execution only**. There is no active public deployment.
 
+
+## Screenshots
+
+### Home
+![EasyRift Home](docs/images/home.jpeg)
+
+| Player Profile | Champion Details |
+|:---:|:---:|
+| ![Player Profile](docs/images/profile.jpeg) | ![Champion Details](docs/images/champion_details.jpeg) |
+
+
 ## Technologies
 
 ### Backend
